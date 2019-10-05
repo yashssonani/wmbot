@@ -24,3 +24,6 @@ Simply send an image or forward it to the bot and it ask you for the watermark s
 1- This is just an example bot to let you see how you can use php-telegram-bot library not a ready to use script.
 
 2- You are allowed to edit any thing in this project and use it in your free or commercial projects, but you may not sell it to anyone without changing its functionallity, or uploading same code on your own repo (If you want work on it simply fork the project)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
